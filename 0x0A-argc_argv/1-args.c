@@ -4,7 +4,7 @@
 /**
  * main - prints the number of arguments passed into the program.
  * @argc: the number of arguments
- * @agrv: the array of arguments
+ * @argv: the array of arguments
  *
  * Return: Always 0 (Success)
  */
