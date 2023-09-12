@@ -5,7 +5,6 @@ int _strlen(char *s);
 char *_strcpy(char *dest, char *src);
 
 /**
- *
  * new_dog - function that creates a new dog
  * @name: the name of the new dog
  * @age: the age of the new dog
